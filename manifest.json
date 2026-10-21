@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "thinc-apple-ops",
+  "versions": [
+    {
+      "commit": "ca926d94f66cdbd2b1d44dbe0987ea0e0f44e264",
+      "parsed_at": "2026-10-21T03:20:12.562104+00:00",
+      "filetree": "filetree/ca926d94f66cdbd2b1d44dbe0987ea0e0f44e264.nq.gz",
+      "blobs": [
+        "blob/2eee3f95099badd41cdea40bcfa6fc7fd01ea8fd.nq.gz",
+        "blob/96abb20ef20fe4146e0c4a9ee4a2f11c0f2217f8.nq.gz",
+        "blob/3cf07150099b43f21ec576e5009d2f8270fbec3e.nq.gz",
+        "blob/1409ef53914847b4f0e51b6722f3dc512fee7898.nq.gz",
+        "blob/4fdeaf1e992e39254527f0e92b94c349eb0fb491.nq.gz",
+        "blob/91acd6d37b2f4db5a59cd5514df4a55b22b7ceb7.nq.gz",
+        "blob/64608e865630dc56b11fa58df26a536c4a8e7643.nq.gz",
+        "blob/c03d7320d03796d96bc4a6b7d5212f7d152cfd1e.nq.gz",
+        "blob/06d42d74a70cc0c7a0a95c02e8d6eefd396ca395.nq.gz",
+        "blob/3939a6ea55f4bc7968bc0007065dd4bdcedd27e4.nq.gz",
+        "blob/ba2db04cefed0de46ad27940ba9055b2ef376433.nq.gz",
+        "blob/7da8330a902f2a7123d81882501066cd1119b5c9.nq.gz",
+        "blob/2ab09d0ad88bb14ecde558fcbd7b276bc80c5ba0.nq.gz",
+        "blob/d1c0c464620522edb8dd14947c9f4a586365f859.nq.gz",
+        "blob/4a99eab4f9ae720cc052511b19411c0216131c48.nq.gz",
+        "blob/0bec0e1f679f7f44f21b1bd8c5aaa84f593ff2cc.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/a49a8909d25e945f8933273116a577a68607c3e6.nq.gz",
+        "blob/824a592ca6bbd4d748e192ecea9e9414fcf6b56d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
