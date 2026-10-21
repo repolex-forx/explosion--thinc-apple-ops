@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/thinc-apple-ops/commit/ca926d94f66cdbd2b1d44dbe0987ea0e0f44e264",
       "git:hexsha": "ca926d94f66cdbd2b1d44dbe0987ea0e0f44e264",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/explosion/thinc-apple-ops/commit/8a3604bff60ad26eb46dd96f84d30a8c6f5cb6a1",
