@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "thinc-apple-ops",
+  "versions": [
+    {
+      "commit": "ca926d94f66cdbd2b1d44dbe0987ea0e0f44e264",
+      "tag": "",
+      "parsed_at": "2026-10-21T03:22:29.390691+00:00"
+    }
+  ]
+}
